@@ -1,0 +1,36 @@
+*.iml
+.idea
+.idea-backup
+*/build
+.gradle
+*.iws
+*.ipr
+build
+target
+*/target
+*~
+.tmp
+.uibuild
+nohup.out
+logs
+dependency-reduced-pom.xml
+*/dependency-reduced-pom.xml
+*/build.log
+m2.settings.xml
+conf/generated
+!resources/conf
+_remote.repositories
+_maven.repositories
+*.jar
+*.jar.sha1
+*.pom
+*.pom.sha1
+maven-metadata-local.xml
+maven-metadata-nexus.xml
+maven-metadata-nexus.xml.sha1
+resolver-status.properties
+.gitreview
+hs_err_pid*
+
+we .gitignore
+wq .gitignore
