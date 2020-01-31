@@ -1,0 +1,6 @@
+Car: id= 8554 make= VW model= Pasat rentalPrice= 150 year= 2016 mileage= 50000 fuelType= diesel
+Car: id= 5374 make= VW model= Golf rentalPrice= 100 year= 2010 mileage= 200000 fuelType= diesel
+Car: id= 5717 make= BMW model= X7 rentalPrice= 120 year= 2012 mileage= 150000 fuelType= petrol
+Car: id= 6857 make= BMW model= X6 rentalPrice= 80 year= 2008 mileage= 200000 fuelType= diesel
+Car: id= 8383 make= Tesla model= S100D rentalPrice= 160 year= 2017 mileage= 40000 fuelType= electric
+Car: id= 1027 make= Renault model= Clio rentalPrice= 150 year= 2018 mileage= 30000 fuelType= petrol
